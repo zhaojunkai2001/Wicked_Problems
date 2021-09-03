@@ -6,9 +6,8 @@ wocao
 
 
 
-Chinese name | English name | age | hobby | feeling right now
---- | --- | --- | --- | ---
-Junkai Zhao | Kyle | 19 | sliding water | Nice to meet you Professor Frazier. Pinyin Version: lao zi mei chou dao lei dian jiang jun, hao qi ya 
+
+########### lao zi mei chou dao lei dian jiang jun, hao qi ya 
 
 
 
