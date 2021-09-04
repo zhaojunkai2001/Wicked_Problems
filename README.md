@@ -4,7 +4,7 @@ Hi! I am Junkai or Kyle (my English name), and I am from Beijing China. I have n
 # my picture 
 ![alt text](http://5b0988e595225.cdn.sohucs.com/images/20171122/d63ec3adb4404b0398192210543b0726.jpeg)
 
-[Getting Started with RStudio & R][1]
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 ###### lao zi mei chou dao lei dian jiang jun, hao qi ya 
 
